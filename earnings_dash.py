@@ -92,10 +92,12 @@ def _add_quarter(d):
     return _month_end(y, m)
 
 def dates_for(t):
-    """Return (next_date, last_date) as ISO strings or None."""
+    """Return (next_date, last_date, ok): ISO strings or None; ok=False when every Yahoo call failed."""
     nxt = last = None
+    ok = False
     try:
         ed = t.get_earnings_dates(limit=8)
+        ok = True
         if ed is not None and len(ed):
             ds = sorted({i.date() for i in ed.index})
             fut = [d for d in ds if d >= TODAY]
@@ -107,6 +109,7 @@ def dates_for(t):
     if nxt is None:
         try:
             cal = t.calendar or {}
+            ok = True
             eds = cal.get("Earnings Date") if isinstance(cal, dict) else None
             if eds:
                 fut = [d for d in eds if d >= TODAY]
@@ -117,7 +120,7 @@ def dates_for(t):
         last = max(last, nxt) if last else nxt
         nxt = None
     iso = lambda d: d.isoformat() if d else None
-    return iso(nxt), iso(last)
+    return iso(nxt), iso(last), ok
 
 STMT_ROWS = {"rev": ["Total Revenue", "Operating Revenue"], "gp": ["Gross Profit"],
              "ebitda": ["EBITDA"], "op": ["Operating Income"],
@@ -163,9 +166,16 @@ def screener_hist(code):
     MON = {m: i for i, m in enumerate(["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"], 1)}
     for path in ("consolidated/", ""):
         with SCREENER_LOCK:
-            h = requests.get("https://www.screener.in/company/%s/%s" % (urllib.parse.quote(code, safe=""), path),
-                             headers=UA, timeout=25).text
-            time.sleep(0.6)
+            url = "https://www.screener.in/company/%s/%s" % (urllib.parse.quote(code, safe=""), path)
+            for wait in (5, 20, None):              # back off on throttling (429) or server errors
+                r = requests.get(url, headers=UA, timeout=25)
+                time.sleep(0.6)
+                if r.status_code == 404 or r.status_code < 400:
+                    break
+                if wait is None:
+                    r.raise_for_status()
+                time.sleep(wait)
+            h = r.text if r.status_code < 400 else ""
         if 'id="quarters"' not in h:
             continue
         sec = h[h.index('id="quarters"'):]; sec = sec[:sec.index("</table>")]
@@ -229,15 +239,20 @@ def results_for(t, mkt):
                 order = [("net", "Net profit")] if bank else [("op", "Operating profit"), ("net", "Net profit")]
                 g = growth(hist, order)
                 if g: g["src"] = "Screener"; return g
+        except requests.HTTPError:
+            if APP: raise                            # keep old figures; retry next run
         except Exception:
             pass
-    g = growth(yahoo_hist(t))
+    order = [("op", "Operating profit"), ("net", "Net profit")] if (APP and mkt == "IN") else PROFIT_ORDER
+    g = growth(yahoo_hist(t), order)
     if g: g["src"] = "Yahoo"
     return g
 
 def needs_refresh(rec, full):
     if full or "q_end" not in rec or "src" not in rec or "rev_qoq" not in rec or "q" not in rec:
         return True
+    if APP and (rec.get("src") == "Yahoo" or rec.get("err")):
+        return True                                  # keep trying to get Screener figures
     last = rec.get("last_date")
     if not last: return False
     age = (TODAY - dt.date.fromisoformat(last)).days
@@ -249,7 +264,9 @@ def fetch_one(item, mkt, cached, full):
     rec = dict(cached or {})
     rec.update(sym=item["sym"], name=item["name"], mkt=mkt)
     if item.get("ind"): rec["ind"] = item["ind"]
-    nxt, last = dates_for(t)
+    nxt, last, ok = dates_for(t)
+    if not ok and rec.get("next_date") and rec["next_date"] >= TODAY.isoformat():
+        nxt = rec["next_date"]                       # Yahoo failed: keep the known future date
     if last is None and rec.get("next_date") and rec["next_date"] < TODAY.isoformat():
         last = rec["next_date"]                      # remember a date that just passed
     rec["next_date"], rec["last_date"] = nxt, last or rec.get("last_date")
@@ -315,8 +332,12 @@ def main():
         from app_data import build_app_data
         ist = dt.datetime.utcnow() + dt.timedelta(hours=5, minutes=30)
         dest = HERE / "app-data.json"
-        dest.write_text(json.dumps(build_app_data(list(out.values()), ist.strftime("%Y-%m-%dT%H:%M+05:30")),
-                                   separators=(",", ":")))
+        from app_data import safe_to_publish
+        new = build_app_data(list(out.values()), ist.strftime("%Y-%m-%dT%H:%M+05:30"))
+        old = json.loads(dest.read_text()) if dest.exists() else None
+        if not safe_to_publish(new, old):
+            sys.exit("Upcoming dates dropped sharply vs the last file (data source problem?). Not publishing.")
+        dest.write_text(json.dumps(new, separators=(",", ":")))
         print(f"Done. {len(out)} stocks, {n_dates} with upcoming dates → {dest}")
     else:
         write_html(list(out.values()))
