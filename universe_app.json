@@ -1,0 +1,2511 @@
+{
+ "asof": "2026-11-21",
+ "IN": [
+  {
+   "sym": "360ONE.NS",
+   "name": "360 ONE WAM Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "ABB.NS",
+   "name": "ABB India Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "ACC.NS",
+   "name": "ACC Ltd.",
+   "ind": "Construction Materials"
+  },
+  {
+   "sym": "ACMESOLAR.NS",
+   "name": "ACME Solar Holdings Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "AIAENG.NS",
+   "name": "AIA Engineering Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "APLAPOLLO.NS",
+   "name": "APL Apollo Tubes Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "AUBANK.NS",
+   "name": "AU Small Finance Bank Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "AWL.NS",
+   "name": "AWL Agri Business Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "AADHARHFC.NS",
+   "name": "Aadhar Housing Finance Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "AARTIIND.NS",
+   "name": "Aarti Industries Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "AAVAS.NS",
+   "name": "Aavas Financiers Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "ABBOTINDIA.NS",
+   "name": "Abbott India Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "ACE.NS",
+   "name": "Action Construction Equipment Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "ACUTAAS.NS",
+   "name": "Acutaas Chemicals Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "ADANIENSOL.NS",
+   "name": "Adani Energy Solutions Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "ADANIENT.NS",
+   "name": "Adani Enterprises Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "ADANIGREEN.NS",
+   "name": "Adani Green Energy Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "ADANIPORTS.NS",
+   "name": "Adani Ports and Special Economic Zone Ltd.",
+   "ind": "Services"
+  },
+  {
+   "sym": "ADANIPOWER.NS",
+   "name": "Adani Power Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "ATGL.NS",
+   "name": "Adani Total Gas Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "ABCAPITAL.NS",
+   "name": "Aditya Birla Capital Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "ABREL.NS",
+   "name": "Aditya Birla Real Estate Ltd.",
+   "ind": "Realty"
+  },
+  {
+   "sym": "ABSLAMC.NS",
+   "name": "Aditya Birla Sun Life AMC Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "CPPLUS.NS",
+   "name": "Aditya Infotech Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "AEGISLOG.NS",
+   "name": "Aegis Logistics Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "AEGISVOPAK.NS",
+   "name": "Aegis Vopak Terminals Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "AETHER.NS",
+   "name": "Aether Industries Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "AFCONS.NS",
+   "name": "Afcons Infrastructure Ltd.",
+   "ind": "Construction"
+  },
+  {
+   "sym": "AFFLE.NS",
+   "name": "Affle 3i Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "AJANTPHARM.NS",
+   "name": "Ajanta Pharmaceuticals Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "ALKEM.NS",
+   "name": "Alkem Laboratories Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "ABDL.NS",
+   "name": "Allied Blenders and Distillers Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "ARE&M.NS",
+   "name": "Amara Raja Energy & Mobility Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "AMBER.NS",
+   "name": "Amber Enterprises India Ltd.",
+   "ind": "Consumer Durables"
+  },
+  {
+   "sym": "AMBUJACEM.NS",
+   "name": "Ambuja Cements Ltd.",
+   "ind": "Construction Materials"
+  },
+  {
+   "sym": "ANANDRATHI.NS",
+   "name": "Anand Rathi Wealth Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "ANANTRAJ.NS",
+   "name": "Anant Raj Ltd.",
+   "ind": "Realty"
+  },
+  {
+   "sym": "ANGELONE.NS",
+   "name": "Angel One Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "ANTHEM.NS",
+   "name": "Anthem Biosciences Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "ANURAS.NS",
+   "name": "Anupam Rasayan India Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "APARINDS.NS",
+   "name": "Apar Industries Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "APOLLOHOSP.NS",
+   "name": "Apollo Hospitals Enterprise Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "APOLLOTYRE.NS",
+   "name": "Apollo Tyres Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "APTUS.NS",
+   "name": "Aptus Value Housing Finance India Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "ASAHIINDIA.NS",
+   "name": "Asahi India Glass Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "ASHOKLEY.NS",
+   "name": "Ashok Leyland Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "ASIANPAINT.NS",
+   "name": "Asian Paints Ltd.",
+   "ind": "Consumer Durables"
+  },
+  {
+   "sym": "ASTERDM.NS",
+   "name": "Aster DM Quality Care Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "ASTRAL.NS",
+   "name": "Astral Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "ATHERENERG.NS",
+   "name": "Ather Energy Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "ATUL.NS",
+   "name": "Atul Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "AUROPHARMA.NS",
+   "name": "Aurobindo Pharma Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "AIIL.NS",
+   "name": "Authum Investment & Infrastructure Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "AVANTIFEED.NS",
+   "name": "Avanti Feeds Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "DMART.NS",
+   "name": "Avenue Supermarts Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "AXISBANK.NS",
+   "name": "Axis Bank Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "AZAD.NS",
+   "name": "Azad Engineering Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "BEML.NS",
+   "name": "BEML Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "BLS.NS",
+   "name": "BLS International Services Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "BSE.NS",
+   "name": "BSE Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "BAGMANE.NS",
+   "name": "Bagmane Prime Office REIT",
+   "ind": "Realty"
+  },
+  {
+   "sym": "BAJAJ-AUTO.NS",
+   "name": "Bajaj Auto Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "BAJFINANCE.NS",
+   "name": "Bajaj Finance Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "BAJAJFINSV.NS",
+   "name": "Bajaj Finserv Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "BAJAJHLDNG.NS",
+   "name": "Bajaj Holdings & Investment Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "BAJAJHFL.NS",
+   "name": "Bajaj Housing Finance Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "BALKRISIND.NS",
+   "name": "Balkrishna Industries Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "BALRAMCHIN.NS",
+   "name": "Balrampur Chini Mills Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "BANDHANBNK.NS",
+   "name": "Bandhan Bank Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "BANKBARODA.NS",
+   "name": "Bank of Baroda",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "BANKINDIA.NS",
+   "name": "Bank of India",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "MAHABANK.NS",
+   "name": "Bank of Maharashtra",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "BATAINDIA.NS",
+   "name": "Bata India Ltd.",
+   "ind": "Consumer Durables"
+  },
+  {
+   "sym": "BELRISE.NS",
+   "name": "Belrise Industries Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "BERGEPAINT.NS",
+   "name": "Berger Paints India Ltd.",
+   "ind": "Consumer Durables"
+  },
+  {
+   "sym": "BHARATCOAL.NS",
+   "name": "Bharat Coking Coal Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "BDL.NS",
+   "name": "Bharat Dynamics Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "BEL.NS",
+   "name": "Bharat Electronics Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "BHARATFORG.NS",
+   "name": "Bharat Forge Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "BHEL.NS",
+   "name": "Bharat Heavy Electricals Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "BPCL.NS",
+   "name": "Bharat Petroleum Corporation Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "BHARTIARTL.NS",
+   "name": "Bharti Airtel Ltd.",
+   "ind": "Telecommunication"
+  },
+  {
+   "sym": "BHARTIHEXA.NS",
+   "name": "Bharti Hexacom Ltd.",
+   "ind": "Telecommunication"
+  },
+  {
+   "sym": "GROWW.NS",
+   "name": "Billionbrains Garage Ventures Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "BIOCON.NS",
+   "name": "Biocon Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "BSOFT.NS",
+   "name": "Birlasoft Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "BBOX.NS",
+   "name": "Black Box Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "BLUESTARCO.NS",
+   "name": "Blue Star Ltd.",
+   "ind": "Consumer Durables"
+  },
+  {
+   "sym": "BOSCHLTD.NS",
+   "name": "Bosch Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "FIRSTCRY.NS",
+   "name": "Brainbees Solutions Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "BRIGADE.NS",
+   "name": "Brigade Enterprises Ltd.",
+   "ind": "Realty"
+  },
+  {
+   "sym": "BRITANNIA.NS",
+   "name": "Britannia Industries Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "BIRET.NS",
+   "name": "Brookfield India Real Estate Trust",
+   "ind": "Realty"
+  },
+  {
+   "sym": "CCL.NS",
+   "name": "CCL Products (I) Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "CESC.NS",
+   "name": "CESC Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "CGPOWER.NS",
+   "name": "CG Power and Industrial Solutions Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "CIEINDIA.NS",
+   "name": "CIE Automotive India Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "CRISIL.NS",
+   "name": "CRISIL Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "CANFINHOME.NS",
+   "name": "Can Fin Homes Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "CANBK.NS",
+   "name": "Canara Bank",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "CANHLIFE.NS",
+   "name": "Canara HSBC Life Insurance Company Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "CAPLIPOINT.NS",
+   "name": "Caplin Point Laboratories Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "CGCL.NS",
+   "name": "Capri Global Capital Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "CARBORUNIV.NS",
+   "name": "Carborundum Universal Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "CARTRADE.NS",
+   "name": "Cartrade Tech Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "CASTROLIND.NS",
+   "name": "Castrol India Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "CEATLTD.NS",
+   "name": "Ceat Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "CEMPRO.NS",
+   "name": "Cemindia Projects Ltd.",
+   "ind": "Construction"
+  },
+  {
+   "sym": "CENTRALBK.NS",
+   "name": "Central Bank of India",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "CDSL.NS",
+   "name": "Central Depository Services (India) Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "CMPDI.NS",
+   "name": "Central Mine Planning & Design Institute Ltd.",
+   "ind": "Services"
+  },
+  {
+   "sym": "CHAMBLFERT.NS",
+   "name": "Chambal Fertilizers & Chemicals Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "CHENNPETRO.NS",
+   "name": "Chennai Petroleum Corporation Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "CHOICEIN.NS",
+   "name": "Choice International Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "CHOLAHLDNG.NS",
+   "name": "Cholamandalam Financial Holdings Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "CHOLAFIN.NS",
+   "name": "Cholamandalam Investment and Finance Company Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "CIPLA.NS",
+   "name": "Cipla Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "CUB.NS",
+   "name": "City Union Bank Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "CLEANMAX.NS",
+   "name": "Clean Max Enviro Energy Solutions Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "CLEAN.NS",
+   "name": "Clean Science and Technology Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "COALINDIA.NS",
+   "name": "Coal India Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "COCHINSHIP.NS",
+   "name": "Cochin Shipyard Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "COFORGE.NS",
+   "name": "Coforge Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "COHANCE.NS",
+   "name": "Cohance Lifesciences Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "COLPAL.NS",
+   "name": "Colgate Palmolive (India) Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "CAMS.NS",
+   "name": "Computer Age Management Services Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "CONCORDBIO.NS",
+   "name": "Concord Biotech Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "CONCOR.NS",
+   "name": "Container Corporation of India Ltd.",
+   "ind": "Services"
+  },
+  {
+   "sym": "COROMANDEL.NS",
+   "name": "Coromandel International Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "CRAFTSMAN.NS",
+   "name": "Craftsman Automation Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "CREDITACC.NS",
+   "name": "CreditAccess Grameen Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "CROMPTON.NS",
+   "name": "Crompton Greaves Consumer Electricals Ltd.",
+   "ind": "Consumer Durables"
+  },
+  {
+   "sym": "CUMMINSIND.NS",
+   "name": "Cummins India Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "CUPID.NS",
+   "name": "Cupid Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "CYIENT.NS",
+   "name": "Cyient Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "DLF.NS",
+   "name": "DLF Ltd.",
+   "ind": "Realty"
+  },
+  {
+   "sym": "DOMS.NS",
+   "name": "DOMS Industries Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "DABUR.NS",
+   "name": "Dabur India Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "DALBHARAT.NS",
+   "name": "Dalmia Bharat Ltd.",
+   "ind": "Construction Materials"
+  },
+  {
+   "sym": "DATAPATTNS.NS",
+   "name": "Data Patterns (India) Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "DEEPAKFERT.NS",
+   "name": "Deepak Fertilisers & Petrochemicals Corp. Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "DEEPAKNTR.NS",
+   "name": "Deepak Nitrite Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "DELHIVERY.NS",
+   "name": "Delhivery Ltd.",
+   "ind": "Services"
+  },
+  {
+   "sym": "DEVYANI.NS",
+   "name": "Devyani International Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "DIVISLAB.NS",
+   "name": "Divi's Laboratories Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "DIXON.NS",
+   "name": "Dixon Technologies (India) Ltd.",
+   "ind": "Consumer Durables"
+  },
+  {
+   "sym": "LALPATHLAB.NS",
+   "name": "Dr. Lal Path Labs Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "DRREDDY.NS",
+   "name": "Dr. Reddy's Laboratories Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "DUMMYHEG.NS",
+   "name": "Dummy HEG Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "EIDPARRY.NS",
+   "name": "E.I.D. Parry (India) Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "EIHOTEL.NS",
+   "name": "EIH Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "EMBASSY.NS",
+   "name": "EMBASSY OFFICE PARKS REIT",
+   "ind": "Realty"
+  },
+  {
+   "sym": "EICHERMOT.NS",
+   "name": "Eicher Motors Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "ELECON.NS",
+   "name": "Elecon Engineering Co. Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "ELGIEQUIP.NS",
+   "name": "Elgi Equipments Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "EMAMILTD.NS",
+   "name": "Emami Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "EMCURE.NS",
+   "name": "Emcure Pharmaceuticals Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "EMMVEE.NS",
+   "name": "Emmvee Photovoltaic Power Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "ENDURANCE.NS",
+   "name": "Endurance Technologies Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "ENGINERSIN.NS",
+   "name": "Engineers India Ltd.",
+   "ind": "Construction"
+  },
+  {
+   "sym": "ESCORTS.NS",
+   "name": "Escorts Kubota Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "ETERNAL.NS",
+   "name": "Eternal Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "EXIDEIND.NS",
+   "name": "Exide Industries Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "NYKAA.NS",
+   "name": "FSN E-Commerce Ventures Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "FEDERALBNK.NS",
+   "name": "Federal Bank Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "FACT.NS",
+   "name": "Fertilisers and Chemicals Travancore Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "FINCABLES.NS",
+   "name": "Finolex Cables Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "FSL.NS",
+   "name": "Firstsource Solutions Ltd.",
+   "ind": "Services"
+  },
+  {
+   "sym": "FIVESTAR.NS",
+   "name": "Five-Star Business Finance Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "FORCEMOT.NS",
+   "name": "Force Motors Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "FORTIS.NS",
+   "name": "Fortis Healthcare Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "FRACTAL.NS",
+   "name": "Fractal Analytics Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "GAIL.NS",
+   "name": "GAIL (India) Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "GVT&D.NS",
+   "name": "GE Vernova T&D India Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "GMRAIRPORT.NS",
+   "name": "GMR Airports Ltd.",
+   "ind": "Services"
+  },
+  {
+   "sym": "GABRIEL.NS",
+   "name": "Gabriel India Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "GALLANTT.NS",
+   "name": "Gallantt Ispat Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "GRSE.NS",
+   "name": "Garden Reach Shipbuilders & Engineers Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "GICRE.NS",
+   "name": "General Insurance Corporation of India",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "GILLETTE.NS",
+   "name": "Gillette India Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "GLAND.NS",
+   "name": "Gland Pharma Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "GLAXO.NS",
+   "name": "Glaxosmithkline Pharmaceuticals Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "GLENMARK.NS",
+   "name": "Glenmark Pharmaceuticals Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "MEDANTA.NS",
+   "name": "Global Health Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "GPIL.NS",
+   "name": "Godawari Power & Ispat Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "GODFRYPHLP.NS",
+   "name": "Godfrey Phillips India Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "GODREJCP.NS",
+   "name": "Godrej Consumer Products Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "GODREJIND.NS",
+   "name": "Godrej Industries Ltd.",
+   "ind": "Diversified"
+  },
+  {
+   "sym": "GODREJPROP.NS",
+   "name": "Godrej Properties Ltd.",
+   "ind": "Realty"
+  },
+  {
+   "sym": "GRANULES.NS",
+   "name": "Granules India Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "GRAPHITE.NS",
+   "name": "Graphite India Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "GRASIM.NS",
+   "name": "Grasim Industries Ltd.",
+   "ind": "Construction Materials"
+  },
+  {
+   "sym": "GRAVITA.NS",
+   "name": "Gravita India Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "GESHIP.NS",
+   "name": "Great Eastern Shipping Co. Ltd.",
+   "ind": "Services"
+  },
+  {
+   "sym": "FLUOROCHEM.NS",
+   "name": "Gujarat Fluorochemicals Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "GMDCLTD.NS",
+   "name": "Gujarat Mineral Development Corporation Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "HBLENGINE.NS",
+   "name": "HBL Engineering Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "HCLTECH.NS",
+   "name": "HCL Technologies Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "HDBFS.NS",
+   "name": "HDB Financial Services Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "HDFCAMC.NS",
+   "name": "HDFC Asset Management Company Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "HDFCBANK.NS",
+   "name": "HDFC Bank Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "HDFCLIFE.NS",
+   "name": "HDFC Life Insurance Company Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "HEGAM.NS",
+   "name": "HEG Advanced Materials Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "HFCL.NS",
+   "name": "HFCL Ltd.",
+   "ind": "Telecommunication"
+  },
+  {
+   "sym": "HAVELLS.NS",
+   "name": "Havells India Ltd.",
+   "ind": "Consumer Durables"
+  },
+  {
+   "sym": "HEROMOTOCO.NS",
+   "name": "Hero MotoCorp Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "HEXT.NS",
+   "name": "Hexaware Technologies Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "HSCL.NS",
+   "name": "Himadri Speciality Chemical Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "HINDALCO.NS",
+   "name": "Hindalco Industries Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "HAL.NS",
+   "name": "Hindustan Aeronautics Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "HINDCOPPER.NS",
+   "name": "Hindustan Copper Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "HINDPETRO.NS",
+   "name": "Hindustan Petroleum Corporation Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "HINDUNILVR.NS",
+   "name": "Hindustan Unilever Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "HINDZINC.NS",
+   "name": "Hindustan Zinc Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "POWERINDIA.NS",
+   "name": "Hitachi Energy India Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "HOMEFIRST.NS",
+   "name": "Home First Finance Company India Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "HONASA.NS",
+   "name": "Honasa Consumer Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "HONAUT.NS",
+   "name": "Honeywell Automation India Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "HUDCO.NS",
+   "name": "Housing & Urban Development Corporation Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "HYUNDAI.NS",
+   "name": "Hyundai Motor India Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "ICICIBANK.NS",
+   "name": "ICICI Bank Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "ICICILIFE.NS",
+   "name": "ICICI Life Insurance Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "ICICIGI.NS",
+   "name": "ICICI Lombard General Insurance Company Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "ICICIAMC.NS",
+   "name": "ICICI Prudential Asset Management Company Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "IDBI.NS",
+   "name": "IDBI Bank Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "IDFCFIRSTB.NS",
+   "name": "IDFC First Bank Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "IFCI.NS",
+   "name": "IFCI Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "IIFL.NS",
+   "name": "IIFL Finance Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "INOXINDIA.NS",
+   "name": "INOX India Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "IRB.NS",
+   "name": "IRB Infrastructure Developers Ltd.",
+   "ind": "Construction"
+  },
+  {
+   "sym": "IRCON.NS",
+   "name": "IRCON International Ltd.",
+   "ind": "Construction"
+  },
+  {
+   "sym": "ITCHOTELS.NS",
+   "name": "ITC Hotels Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "ITC.NS",
+   "name": "ITC Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "ITI.NS",
+   "name": "ITI Ltd.",
+   "ind": "Telecommunication"
+  },
+  {
+   "sym": "INDIACEM.NS",
+   "name": "India Cements Ltd.",
+   "ind": "Construction Materials"
+  },
+  {
+   "sym": "INDIAMART.NS",
+   "name": "Indiamart Intermesh Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "INDIANB.NS",
+   "name": "Indian Bank",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "IEX.NS",
+   "name": "Indian Energy Exchange Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "INDHOTEL.NS",
+   "name": "Indian Hotels Co. Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "IOC.NS",
+   "name": "Indian Oil Corporation Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "IOB.NS",
+   "name": "Indian Overseas Bank",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "IRCTC.NS",
+   "name": "Indian Railway Catering And Tourism Corporation Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "IRFC.NS",
+   "name": "Indian Railway Finance Corporation Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "IREDA.NS",
+   "name": "Indian Renewable Energy Development Agency Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "IGL.NS",
+   "name": "Indraprastha Gas Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "INDUSTOWER.NS",
+   "name": "Indus Towers Ltd.",
+   "ind": "Telecommunication"
+  },
+  {
+   "sym": "INDUSINDBK.NS",
+   "name": "IndusInd Bank Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "NAUKRI.NS",
+   "name": "Info Edge (India) Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "INFY.NS",
+   "name": "Infosys Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "INOXWIND.NS",
+   "name": "Inox Wind Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "INTELLECT.NS",
+   "name": "Intellect Design Arena Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "INDIGO.NS",
+   "name": "InterGlobe Aviation Ltd.",
+   "ind": "Services"
+  },
+  {
+   "sym": "IGIL.NS",
+   "name": "International Gemological Institute Ltd.",
+   "ind": "Services"
+  },
+  {
+   "sym": "IKS.NS",
+   "name": "Inventurus Knowledge Solutions Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "IPCALAB.NS",
+   "name": "Ipca Laboratories Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "JKCEMENT.NS",
+   "name": "J.K. Cement Ltd.",
+   "ind": "Construction Materials"
+  },
+  {
+   "sym": "JBMA.NS",
+   "name": "JBM Auto Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "JKTYRE.NS",
+   "name": "JK Tyre & Industries Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "JMFINANCIL.NS",
+   "name": "JM Financial Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "JSWCEMENT.NS",
+   "name": "JSW Cement Ltd.",
+   "ind": "Construction Materials"
+  },
+  {
+   "sym": "JSWENERGY.NS",
+   "name": "JSW Energy Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "JSWINFRA.NS",
+   "name": "JSW Infrastructure Ltd.",
+   "ind": "Services"
+  },
+  {
+   "sym": "JSWSTEEL.NS",
+   "name": "JSW Steel Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "JAINREC.NS",
+   "name": "Jain Resource Recycling Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "JPPOWER.NS",
+   "name": "Jaiprakash Power Ventures Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "J&KBANK.NS",
+   "name": "Jammu & Kashmir Bank Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "JINDALSAW.NS",
+   "name": "Jindal Saw Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "JSL.NS",
+   "name": "Jindal Stainless Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "JINDALSTEL.NS",
+   "name": "Jindal Steel Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "JIOFIN.NS",
+   "name": "Jio Financial Services Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "JUBLFOOD.NS",
+   "name": "Jubilant Foodworks Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "JUBLINGREA.NS",
+   "name": "Jubilant Ingrevia Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "JWL.NS",
+   "name": "Jupiter Wagons Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "JYOTICNC.NS",
+   "name": "Jyoti CNC Automation Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "KPRMILL.NS",
+   "name": "K.P.R. Mill Ltd.",
+   "ind": "Textiles"
+  },
+  {
+   "sym": "KEI.NS",
+   "name": "KEI Industries Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "KPITTECH.NS",
+   "name": "KPIT Technologies Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "KSB.NS",
+   "name": "KSB Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "KAJARIACER.NS",
+   "name": "Kajaria Ceramics Ltd.",
+   "ind": "Consumer Durables"
+  },
+  {
+   "sym": "KPIL.NS",
+   "name": "Kalpataru Projects International Ltd.",
+   "ind": "Construction"
+  },
+  {
+   "sym": "KALYANKJIL.NS",
+   "name": "Kalyan Jewellers India Ltd.",
+   "ind": "Consumer Durables"
+  },
+  {
+   "sym": "KARURVYSYA.NS",
+   "name": "Karur Vysya Bank Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "KAYNES.NS",
+   "name": "Kaynes Technology India Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "KEC.NS",
+   "name": "Kec International Ltd.",
+   "ind": "Construction"
+  },
+  {
+   "sym": "KFINTECH.NS",
+   "name": "Kfin Technologies Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "KIRLOSBROS.NS",
+   "name": "Kirloskar Brothers Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "KIRLOSENG.NS",
+   "name": "Kirloskar Oil Eng Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "KOTAKBANK.NS",
+   "name": "Kotak Mahindra Bank Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "KIMS.NS",
+   "name": "Krishna Institute of Medical Sciences Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "LTF.NS",
+   "name": "L&T Finance Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "LTTS.NS",
+   "name": "L&T Technology Services Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "LGEINDIA.NS",
+   "name": "LG Electronics India Ltd.",
+   "ind": "Consumer Durables"
+  },
+  {
+   "sym": "LICHSGFIN.NS",
+   "name": "LIC Housing Finance Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "LTFOODS.NS",
+   "name": "LT Foods Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "LTM.NS",
+   "name": "LTM Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "LT.NS",
+   "name": "Larsen & Toubro Ltd.",
+   "ind": "Construction"
+  },
+  {
+   "sym": "LAURUSLABS.NS",
+   "name": "Laurus Labs Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "LEMONTREE.NS",
+   "name": "Lemon Tree Hotels Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "LENSKART.NS",
+   "name": "Lenskart Solutions Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "LICI.NS",
+   "name": "Life Insurance Corporation of India",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "LINDEINDIA.NS",
+   "name": "Linde India Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "LLOYDSME.NS",
+   "name": "Lloyds Metals And Energy Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "LODHA.NS",
+   "name": "Lodha Developers Ltd.",
+   "ind": "Realty"
+  },
+  {
+   "sym": "LUPIN.NS",
+   "name": "Lupin Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "MMTC.NS",
+   "name": "MMTC Ltd.",
+   "ind": "Services"
+  },
+  {
+   "sym": "MRF.NS",
+   "name": "MRF Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "MTARTECH.NS",
+   "name": "MTAR Technologies Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "MGL.NS",
+   "name": "Mahanagar Gas Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "M&MFIN.NS",
+   "name": "Mahindra & Mahindra Financial Services Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "M&M.NS",
+   "name": "Mahindra & Mahindra Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "MANAPPURAM.NS",
+   "name": "Manappuram Finance Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "MRPL.NS",
+   "name": "Mangalore Refinery & Petrochemicals Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "MANKIND.NS",
+   "name": "Mankind Pharma Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "MARICO.NS",
+   "name": "Marico Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "MARUTI.NS",
+   "name": "Maruti Suzuki India Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "MFSL.NS",
+   "name": "Max Financial Services Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "MAXHEALTH.NS",
+   "name": "Max Healthcare Institute Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "MAZDOCK.NS",
+   "name": "Mazagoan Dock Shipbuilders Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "MEESHO.NS",
+   "name": "Meesho Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "MINDACORP.NS",
+   "name": "Minda Corporation Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "MSUMI.NS",
+   "name": "Motherson Sumi Wiring India Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "MOTILALOFS.NS",
+   "name": "Motilal Oswal Financial Services Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "MPHASIS.NS",
+   "name": "MphasiS Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "MCX.NS",
+   "name": "Multi Commodity Exchange of India Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "MUTHOOTFIN.NS",
+   "name": "Muthoot Finance Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "NATCOPHARM.NS",
+   "name": "NATCO Pharma Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "NBCC.NS",
+   "name": "NBCC (India) Ltd.",
+   "ind": "Construction"
+  },
+  {
+   "sym": "NCC.NS",
+   "name": "NCC Ltd.",
+   "ind": "Construction"
+  },
+  {
+   "sym": "NHPC.NS",
+   "name": "NHPC Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "NLCINDIA.NS",
+   "name": "NLC India Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "NMDC.NS",
+   "name": "NMDC Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "NSLNISP.NS",
+   "name": "NMDC Steel Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "NTPCGREEN.NS",
+   "name": "NTPC Green Energy Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "NTPC.NS",
+   "name": "NTPC Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "NH.NS",
+   "name": "Narayana Hrudayalaya Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "NATIONALUM.NS",
+   "name": "National Aluminium Co. Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "NAVA.NS",
+   "name": "Nava Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "NAVINFLUOR.NS",
+   "name": "Navin Fluorine International Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "NESTLEIND.NS",
+   "name": "Nestle India Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "NETWEB.NS",
+   "name": "Netweb Technologies India Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "NEULANDLAB.NS",
+   "name": "Neuland Laboratories Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "NAM-INDIA.NS",
+   "name": "Nippon Life India Asset Management Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "NUVAMA.NS",
+   "name": "Nuvama Wealth Management Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "NUVOCO.NS",
+   "name": "Nuvoco Vistas Corporation Ltd.",
+   "ind": "Construction Materials"
+  },
+  {
+   "sym": "OBEROIRLTY.NS",
+   "name": "Oberoi Realty Ltd.",
+   "ind": "Realty"
+  },
+  {
+   "sym": "ONGC.NS",
+   "name": "Oil & Natural Gas Corporation Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "OIL.NS",
+   "name": "Oil India Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "OLAELEC.NS",
+   "name": "Ola Electric Mobility Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "OLECTRA.NS",
+   "name": "Olectra Greentech Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "PAYTM.NS",
+   "name": "One 97 Communications Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "ONESOURCE.NS",
+   "name": "Onesource Specialty Pharma Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "OFSS.NS",
+   "name": "Oracle Financial Services Software Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "POLICYBZR.NS",
+   "name": "PB Fintech Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "PCBL.NS",
+   "name": "PCBL Chemical Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "PGEL.NS",
+   "name": "PG Electroplast Ltd.",
+   "ind": "Consumer Durables"
+  },
+  {
+   "sym": "PIIND.NS",
+   "name": "PI Industries Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "PNBHOUSING.NS",
+   "name": "PNB Housing Finance Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "PTCIL.NS",
+   "name": "PTC Industries Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "PVRINOX.NS",
+   "name": "PVR INOX Ltd.",
+   "ind": "Media Entertainment & Publication"
+  },
+  {
+   "sym": "PAGEIND.NS",
+   "name": "Page Industries Ltd.",
+   "ind": "Textiles"
+  },
+  {
+   "sym": "PARADEEP.NS",
+   "name": "Paradeep Phosphates Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "PATANJALI.NS",
+   "name": "Patanjali Foods Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "PERSISTENT.NS",
+   "name": "Persistent Systems Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "PETRONET.NS",
+   "name": "Petronet LNG Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "PHOENIXLTD.NS",
+   "name": "Phoenix Mills Ltd.",
+   "ind": "Realty"
+  },
+  {
+   "sym": "PWL.NS",
+   "name": "Physicswallah Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "PIDILITIND.NS",
+   "name": "Pidilite Industries Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "PINELABS.NS",
+   "name": "Pine Labs Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "PIRAMALFIN.NS",
+   "name": "Piramal Finance Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "PPLPHARMA.NS",
+   "name": "Piramal Pharma Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "POLYMED.NS",
+   "name": "Poly Medicure Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "POLYCAB.NS",
+   "name": "Polycab India Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "POONAWALLA.NS",
+   "name": "Poonawalla Fincorp Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "PFC.NS",
+   "name": "Power Finance Corporation Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "POWERGRID.NS",
+   "name": "Power Grid Corporation of India Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "PREMIERENE.NS",
+   "name": "Premier Energies Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "PRESTIGE.NS",
+   "name": "Prestige Estates Projects Ltd.",
+   "ind": "Realty"
+  },
+  {
+   "sym": "PFOCUS.NS",
+   "name": "Prime Focus Ltd.",
+   "ind": "Media Entertainment & Publication"
+  },
+  {
+   "sym": "PRIVISCL.NS",
+   "name": "Privi Speciality Chemicals Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "PNB.NS",
+   "name": "Punjab National Bank",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "RRKABEL.NS",
+   "name": "R R Kabel Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "RBLBANK.NS",
+   "name": "RBL Bank Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "RECLTD.NS",
+   "name": "REC Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "RHIM.NS",
+   "name": "RHI MAGNESITA INDIA LTD.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "RITES.NS",
+   "name": "RITES Ltd.",
+   "ind": "Construction"
+  },
+  {
+   "sym": "RADICO.NS",
+   "name": "Radico Khaitan Ltd",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "RVNL.NS",
+   "name": "Rail Vikas Nigam Ltd.",
+   "ind": "Construction"
+  },
+  {
+   "sym": "RAILTEL.NS",
+   "name": "Railtel Corporation Of India Ltd.",
+   "ind": "Telecommunication"
+  },
+  {
+   "sym": "RAINBOW.NS",
+   "name": "Rainbow Childrens Medicare Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "RKFORGE.NS",
+   "name": "Ramkrishna Forgings Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "REDINGTON.NS",
+   "name": "Redington Ltd.",
+   "ind": "Services"
+  },
+  {
+   "sym": "RELIANCE.NS",
+   "name": "Reliance Industries Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "RPOWER.NS",
+   "name": "Reliance Power Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "RUBICON.NS",
+   "name": "Rubicon Research Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "SBICARD.NS",
+   "name": "SBI Cards and Payment Services Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "SBILIFE.NS",
+   "name": "SBI Life Insurance Company Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "SJVN.NS",
+   "name": "SJVN Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "SHRIPISTON.NS",
+   "name": "SPR Auto Technologies Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "SRF.NS",
+   "name": "SRF Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "SAGILITY.NS",
+   "name": "Sagility Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "SAILIFE.NS",
+   "name": "Sai Life Sciences Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "SAMMAANCAP.NS",
+   "name": "Sammaan Capital Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "MOTHERSON.NS",
+   "name": "Samvardhana Motherson International Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "SANSERA.NS",
+   "name": "Sansera Engineering Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "SARDAEN.NS",
+   "name": "Sarda Energy and Minerals Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "SCHAEFFLER.NS",
+   "name": "Schaeffler India Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "SCHNEIDER.NS",
+   "name": "Schneider Electric Infrastructure Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "SCI.NS",
+   "name": "Shipping Corporation of India Ltd.",
+   "ind": "Services"
+  },
+  {
+   "sym": "SHREECEM.NS",
+   "name": "Shree Cement Ltd.",
+   "ind": "Construction Materials"
+  },
+  {
+   "sym": "SHRIRAMFIN.NS",
+   "name": "Shriram Finance Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "SHYAMMETL.NS",
+   "name": "Shyam Metalics and Energy Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "ENRIN.NS",
+   "name": "Siemens Energy India Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "SIEMENS.NS",
+   "name": "Siemens Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "SIGNATURE.NS",
+   "name": "Signatureglobal (India) Ltd.",
+   "ind": "Realty"
+  },
+  {
+   "sym": "SOBHA.NS",
+   "name": "Sobha Ltd.",
+   "ind": "Realty"
+  },
+  {
+   "sym": "SOLARINDS.NS",
+   "name": "Solar Industries India Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "SONACOMS.NS",
+   "name": "Sona BLW Precision Forgings Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "STARHEALTH.NS",
+   "name": "Star Health and Allied Insurance Company Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "SBIN.NS",
+   "name": "State Bank of India",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "SAIL.NS",
+   "name": "Steel Authority of India Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "STLTECH.NS",
+   "name": "Sterlite Technologies Ltd.",
+   "ind": "Telecommunication"
+  },
+  {
+   "sym": "SUMICHEM.NS",
+   "name": "Sumitomo Chemical India Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "SUNPHARMA.NS",
+   "name": "Sun Pharmaceutical Industries Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "SUNTV.NS",
+   "name": "Sun TV Network Ltd.",
+   "ind": "Media Entertainment & Publication"
+  },
+  {
+   "sym": "SUNDARMFIN.NS",
+   "name": "Sundaram Finance Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "SUPREMEIND.NS",
+   "name": "Supreme Industries Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "SUZLON.NS",
+   "name": "Suzlon Energy Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "SWANCORP.NS",
+   "name": "Swan Corp Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "SWIGGY.NS",
+   "name": "Swiggy Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "SYNGENE.NS",
+   "name": "Syngene International Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "SYRMA.NS",
+   "name": "Syrma SGS Technology Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "TBOTEK.NS",
+   "name": "TBO Tek Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "TDPOWERSYS.NS",
+   "name": "TD Power Systems Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "TVSMOTOR.NS",
+   "name": "TVS Motor Company Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "TATACAP.NS",
+   "name": "Tata Capital Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "TATACHEM.NS",
+   "name": "Tata Chemicals Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "TATACOMM.NS",
+   "name": "Tata Communications Ltd.",
+   "ind": "Telecommunication"
+  },
+  {
+   "sym": "TCS.NS",
+   "name": "Tata Consultancy Services Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "TATACONSUM.NS",
+   "name": "Tata Consumer Products Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "TATAELXSI.NS",
+   "name": "Tata Elxsi Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "TATAINVEST.NS",
+   "name": "Tata Investment Corporation Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "TMCV.NS",
+   "name": "Tata Motors Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "TMPV.NS",
+   "name": "Tata Motors Passenger Vehicles Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "TATAPOWER.NS",
+   "name": "Tata Power Co. Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "TATASTEEL.NS",
+   "name": "Tata Steel Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "TATATECH.NS",
+   "name": "Tata Technologies Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "TTML.NS",
+   "name": "Tata Teleservices (Maharashtra) Ltd.",
+   "ind": "Telecommunication"
+  },
+  {
+   "sym": "TECHM.NS",
+   "name": "Tech Mahindra Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "TECHNOE.NS",
+   "name": "Techno Electric & Engineering Company Ltd.",
+   "ind": "Construction"
+  },
+  {
+   "sym": "TEGA.NS",
+   "name": "Tega Industries Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "TEJASNET.NS",
+   "name": "Tejas Networks Ltd.",
+   "ind": "Telecommunication"
+  },
+  {
+   "sym": "TENNIND.NS",
+   "name": "Tenneco Clean Air India Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "THANGAMAYL.NS",
+   "name": "Thangamayil Jewellery Ltd.",
+   "ind": "Consumer Durables"
+  },
+  {
+   "sym": "NIACL.NS",
+   "name": "The New India Assurance Company Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "RAMCOCEM.NS",
+   "name": "The Ramco Cements Ltd.",
+   "ind": "Construction Materials"
+  },
+  {
+   "sym": "THERMAX.NS",
+   "name": "Thermax Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "TIMKEN.NS",
+   "name": "Timken India Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "TITAGARH.NS",
+   "name": "Titagarh Rail Systems Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "TITAN.NS",
+   "name": "Titan Company Ltd.",
+   "ind": "Consumer Durables"
+  },
+  {
+   "sym": "TORNTPHARM.NS",
+   "name": "Torrent Pharmaceuticals Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "TORNTPOWER.NS",
+   "name": "Torrent Power Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "TARIL.NS",
+   "name": "Transformers And Rectifiers (India) Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "TRENT.NS",
+   "name": "Trent Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "TRIDENT.NS",
+   "name": "Trident Ltd.",
+   "ind": "Textiles"
+  },
+  {
+   "sym": "TRITURBINE.NS",
+   "name": "Triveni Turbine Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "TIINDIA.NS",
+   "name": "Tube Investments of India Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "UCOBANK.NS",
+   "name": "UCO Bank",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "UNOMINDA.NS",
+   "name": "UNO Minda Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "UPL.NS",
+   "name": "UPL Ltd.",
+   "ind": "Chemicals"
+  },
+  {
+   "sym": "UTIAMC.NS",
+   "name": "UTI Asset Management Company Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "ULTRACEMCO.NS",
+   "name": "UltraTech Cement Ltd.",
+   "ind": "Construction Materials"
+  },
+  {
+   "sym": "UNIONBANK.NS",
+   "name": "Union Bank of India",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "UBL.NS",
+   "name": "United Breweries Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "UNITDSPR.NS",
+   "name": "United Spirits Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "URBANCO.NS",
+   "name": "Urban Company Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "USHAMART.NS",
+   "name": "Usha Martin Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "VTL.NS",
+   "name": "Vardhman Textiles Ltd.",
+   "ind": "Textiles"
+  },
+  {
+   "sym": "VBL.NS",
+   "name": "Varun Beverages Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "VAML.NS",
+   "name": "Vedanta Aluminium Metal Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "VISL.NS",
+   "name": "Vedanta Iron and Steel Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "VEDL.NS",
+   "name": "Vedanta Ltd.",
+   "ind": "Metals & Mining"
+  },
+  {
+   "sym": "VOGL.NS",
+   "name": "Vedanta Oil and Gas Ltd.",
+   "ind": "Oil Gas & Consumable Fuels"
+  },
+  {
+   "sym": "VEDPOWER.NS",
+   "name": "Vedanta Power Ltd.",
+   "ind": "Power"
+  },
+  {
+   "sym": "VIJAYA.NS",
+   "name": "Vijaya Diagnostic Centre Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "VMM.NS",
+   "name": "Vishal Mega Mart Ltd.",
+   "ind": "Consumer Services"
+  },
+  {
+   "sym": "IDEA.NS",
+   "name": "Vodafone Idea Ltd.",
+   "ind": "Telecommunication"
+  },
+  {
+   "sym": "VOLTAS.NS",
+   "name": "Voltas Ltd.",
+   "ind": "Consumer Durables"
+  },
+  {
+   "sym": "WAAREEENER.NS",
+   "name": "Waaree Energies Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "WELCORP.NS",
+   "name": "Welspun Corp Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "WELSPUNLIV.NS",
+   "name": "Welspun Living Ltd.",
+   "ind": "Textiles"
+  },
+  {
+   "sym": "WHIRLPOOL.NS",
+   "name": "Whirlpool of India Ltd.",
+   "ind": "Consumer Durables"
+  },
+  {
+   "sym": "WIPRO.NS",
+   "name": "Wipro Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "WOCKPHARMA.NS",
+   "name": "Wockhardt Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "YESBANK.NS",
+   "name": "Yes Bank Ltd.",
+   "ind": "Financial Services"
+  },
+  {
+   "sym": "ZFCVINDIA.NS",
+   "name": "ZF Commercial Vehicle Control Systems India Ltd.",
+   "ind": "Automobile and Auto Components"
+  },
+  {
+   "sym": "ZEEL.NS",
+   "name": "Zee Entertainment Enterprises Ltd.",
+   "ind": "Media Entertainment & Publication"
+  },
+  {
+   "sym": "ZENTEC.NS",
+   "name": "Zen Technologies Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "ZENSARTECH.NS",
+   "name": "Zensar Technolgies Ltd.",
+   "ind": "Information Technology"
+  },
+  {
+   "sym": "ZYDUSLIFE.NS",
+   "name": "Zydus Lifesciences Ltd.",
+   "ind": "Healthcare"
+  },
+  {
+   "sym": "ZYDUSWELL.NS",
+   "name": "Zydus Wellness Ltd.",
+   "ind": "Fast Moving Consumer Goods"
+  },
+  {
+   "sym": "ECLERX.NS",
+   "name": "eClerx Services Ltd.",
+   "ind": "Services"
+  }
+ ],
+ "US": []
+}
