@@ -1,0 +1,24 @@
+name: Daily earnings data
+on:
+  schedule:
+    - cron: "11 2 * * *"   # 07:41 IST daily
+  workflow_dispatch: {}     # manual "Run workflow" button
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -r requirements.txt
+      - run: python earnings_dash.py --app
+      - name: Commit refreshed data
+        run: |
+          git config user.name "earnings-bot"
+          git config user.email "earnings-bot@users.noreply.github.com"
+          git add app-data.json cache_app.json universe_app.json
+          git diff --cached --quiet || git commit -m "Data refresh $(date -u +%F)"
+          git push
