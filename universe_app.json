@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-21",
+ "asof": "2026-11-28",
  "IN": [
   {
    "sym": "360ONE.NS",
@@ -742,11 +742,6 @@
    "ind": "Healthcare"
   },
   {
-   "sym": "DUMMYHEG.NS",
-   "name": "Dummy HEG Ltd.",
-   "ind": "Capital Goods"
-  },
-  {
    "sym": "EIDPARRY.NS",
    "name": "E.I.D. Parry (India) Ltd.",
    "ind": "Fast Moving Consumer Goods"
@@ -1014,6 +1009,11 @@
   {
    "sym": "HEGAM.NS",
    "name": "HEG Advanced Materials Ltd.",
+   "ind": "Capital Goods"
+  },
+  {
+   "sym": "HEGRAPHITE.NS",
+   "name": "HEG Ltd.",
    "ind": "Capital Goods"
   },
   {
